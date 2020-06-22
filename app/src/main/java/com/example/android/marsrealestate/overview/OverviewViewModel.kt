@@ -45,5 +45,10 @@ class OverviewViewModel : ViewModel() {
      */
     private fun getMarsRealEstateProperties() {
         _response.value = "Set the Mars API Response here!"
+
+
+
     }
+
+
 }
